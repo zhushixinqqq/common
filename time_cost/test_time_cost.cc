@@ -1,8 +1,8 @@
 /*
- * Copyright [2013-2015] <formaxmarket.com>"  [legal/copyright]
+ * Copyright [2013-2015] <zhushixinq@qq.com>"  [legal/copyright]
  *
  * file: order_book_maintainer_test.cc
- * author:  xiaojun@formaxmarket.com
+ * author:  zhushixinq@formaxmarket.com
  *
  */
 #include <iostream>

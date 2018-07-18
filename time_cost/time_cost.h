@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015, Formax Inc. All rights reserved.
+ * Copyright (c) 2015, zhushixin Inc. All rights reserved.
  */
 #ifndef COMMON_TIME_COST_TIME_COST_H
 #define COMMON_TIME_COST_TIME_COST_H
